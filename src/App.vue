@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import weui from 'weui'
 export default {
   name: 'app'
 }
